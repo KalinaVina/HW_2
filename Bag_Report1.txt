@@ -1,0 +1,13 @@
+ID
+Modul
+Enviroment
+Summary
+Priority
+Severity
+Preconditions
+Steps To Reproduce
+Expected Result
+Actual Result
+Reproducibility
+Attachment
+Who discovered
